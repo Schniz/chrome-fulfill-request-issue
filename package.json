@@ -1,6 +1,5 @@
 {
   "name": "chrome-fulfill-request-issue",
-  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Gal Schlezinger <gal@spitfire.co.il>",
