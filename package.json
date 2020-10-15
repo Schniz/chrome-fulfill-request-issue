@@ -1,0 +1,13 @@
+{
+  "name": "chrome-fulfill-request-issue",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gal Schlezinger <gal@spitfire.co.il>",
+  "license": "MIT",
+  "devDependencies": {
+    "devtools-protocol": "^0.0.816699",
+    "prettier": "^2.1.2",
+    "puppeteer": "^5.3.1"
+  }
+}
