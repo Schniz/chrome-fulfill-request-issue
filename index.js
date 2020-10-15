@@ -72,6 +72,8 @@ async function main() {
     }
   );
 
+  console.log('browser version: ', await browser.version());
+
   console.log("going to http://localhost:30000");
   await page.goto("http://localhost:30000");
   console.log({
